@@ -1,4 +1,4 @@
-import logo from '@/assets/images/flowise_white.svg'
+import logo from '@/assets/images/hist-logo.gif'
 import logoDark from '@/assets/images/flowise_dark.svg'
 
 import { useSelector } from 'react-redux'
